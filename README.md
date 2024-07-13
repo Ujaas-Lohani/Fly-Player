@@ -2,12 +2,11 @@
 This is a simple media player that allows you to play audio and video files. It has a user-friendly interface and supports a wide range of media formats.
 
 # Features
--Play audio and video files
--Support for multiple media formats (e.g. MP3, MP4, AVI, etc.)
--User-friendly interface
--Basic playback controls (play, pause, stop, seek)
--Equalizer presets
--Keyboard shortcuts
+- Play audio and video files
+- Support for multiple media formats (e.g. MP3, MP4, AVI, etc.)
+- User-friendly interface
+- Basic playback controls (play, pause, stop, seek)
+- Keyboard shortcuts
 # Installation
 To install the media player just download both setups and install them. K lite codec pack is used to run various file formats.
 You can install the standard version from 
